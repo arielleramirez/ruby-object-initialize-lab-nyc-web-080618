@@ -5,7 +5,7 @@
   
   end
   
-  def name
+  def name=(
 end
 
 beyonce = Person.new("Beyonce")
