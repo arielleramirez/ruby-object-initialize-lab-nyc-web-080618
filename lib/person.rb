@@ -4,6 +4,8 @@
     @name = name
   
   end
+  
+  def name
 end
 
 beyonce = Person.new("Beyonce")
