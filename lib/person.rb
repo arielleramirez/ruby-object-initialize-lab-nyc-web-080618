@@ -7,3 +7,4 @@
 end
 
 beyonce = Person.new("Beyonce")
+b
