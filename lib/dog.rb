@@ -15,7 +15,7 @@ end
 
   
   def breed
-    puts "Mut"
+    puts "Mutt"
   end 
 end 
 
